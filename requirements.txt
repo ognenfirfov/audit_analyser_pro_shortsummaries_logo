@@ -1,0 +1,7 @@
+streamlit
+openai
+PyMuPDF
+pandas
+tenacity
+fpdf
+python-docx
